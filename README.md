@@ -1,4 +1,5 @@
 # Lecture Homework: Practice exercises due 4-17-19 at 11:00:00pm.
+testing that this works
 
 ## [Read about loops](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php)
 
